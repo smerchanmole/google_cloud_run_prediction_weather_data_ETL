@@ -1,0 +1,10 @@
+#lista de paquetes a instalar que no vienen por defecto
+pandas>=1.0.3
+requests>=2.27.1
+psycopg2-binary>=2.9.6
+flask>=2.0.3
+colorama>=0.4.4
+markupsafe>=2.0.0
+urllib3>=1.26.15
+tabulate
+
